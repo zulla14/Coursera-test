@@ -4,6 +4,15 @@
 	<title>To do list</title>
 </head>
 <body>
-<h1>List</h1>
+<h1>List with things to do</h1>
+
+<h2>For our Transiberian project, we would like to do:</h2>
+		<ol>
+		<li>interviews</li>
+		<li>photos</li>
+			<ol>
+				<li>with people</li>
+				<li>of places</li>
+	</ol>
 </body>
 </html>
